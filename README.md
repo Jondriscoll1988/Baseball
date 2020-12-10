@@ -21,8 +21,8 @@
 
 ## Future Additions
 
-**1) At-Bat and Game Simulators:  I am in the process of exploring the best approach to create at-bat and game simulators, which can be used to create player and team stat projections.
+**1) At-Bat and Game Simulators:**  I am in the process of exploring the best approach to create at-bat and game simulators, which can be used to create player and team stat projections.
 
-**2) Lineup Optimization:  As a follow-up to the previous point, I will work towards including a workflow to optimize Daily Fantasy Sports lineups.  This will be able to use the projection outputs from my game simulator, or from a DFS site such as Rotoworld
+**2) Lineup Optimization:**  As a follow-up to the previous point, I will work towards including a workflow to optimize Daily Fantasy Sports lineups.  This will be able to use the projection outputs from my game simulator, or from a DFS site such as Rotoworld
 
-**3) Dashboard:  Will eventually work toward a Statcast dashboard, but will be a later-state.
+**3) Dashboard:**  Will eventually work toward a Statcast dashboard, but will be a later-state.
